@@ -34,7 +34,7 @@ public class RandomNum { // Zarik Khan 11/29/2020
         int max = sc.nextInt();
         // inputs the numbers
 
-        System.out.println("What number do you want all possible numbers that may be chosen, have as a common multiple");
+        System.out.println("What number do you want all possible numbers that may be chosen, have as a common divisor");
         System.out.println("To only have even numbers within your range, input 2, to only have odds input 0");
         int multiple = sc.nextInt();
         if(multiple ==0){
